@@ -139,7 +139,7 @@ document.addEventListener('DOMContentLoaded', () => {
       };
       // Replace with your Google Apps Script web app URL
       const scriptURL =
-        'https://script.google.com/macros/s/AKfycbzDlcyFlKgJoQKs78va0r6lZtEmpUBV3OdXnR9IyqYsBEdZ94z8i9lT0kot_dJyZiI/exec';
+        'https://script.google.com/macros/s/AKfycbx1DH2nx1bWkCmudodIRvbELB7lfeC1Jpm5UVN0eBgqjKEVXCLKxyKsQZsJOGrOZn7F/exec';
       // Send the data to Google Apps Script endpoint
       fetch(scriptURL, {
         method: 'POST',
